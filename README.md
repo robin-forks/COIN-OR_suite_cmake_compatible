@@ -1,4 +1,6 @@
-### COIN-OR projects with CMake build support
+## COIN-OR projects with CMake build support
+
+This repository contains all projects COIN-or. 
 
 - [Cbc](https://projects.coin-or.org/Cbc) version 2.10.3 ([source](Cbc/))
 - [Ipopt](https://projects.coin-or.org/Ipopt) version 3.12.13 ([source](Ipopt/))
