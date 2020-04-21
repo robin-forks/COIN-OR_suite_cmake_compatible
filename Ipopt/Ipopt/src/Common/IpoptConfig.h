@@ -38,7 +38,7 @@
 #ifdef IPOPT_BUILD
 #include "config_default.h"
 #else
-#include "config_ipopt_default.h"
+#include "config_ipopt.h"
 #endif
 
 #endif /* HAVE_CONFIG_H */
