@@ -13,3 +13,7 @@ Makefile
 /ThirdParty/lapack/bin
 build/
 tmp/
+# Robin
+.idea
+cmake-build-*/
+build*/
